@@ -36,6 +36,6 @@
         </div>
     </div>
 </section>
-<script src="https://widgetiframeconversell.firebaseapp.com/index.js"></script> <chat-widget chatbotid='08f15093-3f49-401a-9c73-0d0da563a029' mode='widget'></chat-widget>
+<script src="https://widgetiframeconversell.firebaseapp.com/index.js"></script> <chat-widget chatbotid='0caf692c-3dd4-4bac-8cf6-eb68b98fdc05' mode='widget'></chat-widget>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;800&display=swap" rel="stylesheet">
 <?php include 'footer.php'; ?>
