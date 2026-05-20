@@ -35,7 +35,5 @@
             </div>
         </div>
     </div>
-</section>
-<script src="https://widgetiframeconversell.firebaseapp.com/index.js"></script> <chat-widget chatbotid='b01030ef-3226-4985-a40c-27f0639f664d' mode='widget'></chat-widget>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;800&display=swap" rel="stylesheet">
+</section><div id="widget-button"> <iframe src="https://widgetiframeconversell.web.app/?chatbotid=b01030ef-3226-4985-a40c-27f0639f664d&mode=iframe" loading="lazy" style="border: none; outline: none;" width="100%" height="450px"></iframe> </div>
 <?php include 'footer.php'; ?>
